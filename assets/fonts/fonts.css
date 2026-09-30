@@ -1,0 +1,12 @@
+/* Add licensed local fonts here, then change config/global.js fontFamily.
+
+@font-face {
+  font-family: 'MyPortfolioFont';
+  src: url('./my-font.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+For a non-variable font, use its actual weight (e.g. font-weight: 400).
+Add one @font-face rule per weight/style file. */
